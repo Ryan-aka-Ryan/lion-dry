@@ -5,7 +5,7 @@
 Pat Heaney is a sophomore at the Pennsylvania State University. He is pursuing a B.S. in Security and Risk Analysis at the College of Information Sciences and Technology with a focus in Information & Cybersecurity (ICS). 
 
 ### Ryan Dougherty
-// bio will go here
+Ryan Dougherty is a sophmore in the College of IST at Penn State University. He plans on obtaining a B.S. and M.S. in IST with an emphasis on Design and Development.
 
 ### Wendy Davis
 // bio will go here
